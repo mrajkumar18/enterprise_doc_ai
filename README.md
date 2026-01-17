@@ -6,6 +6,13 @@ Enterprise Document Intelligence is a **governance-safe, retrieval-augmented AI 
 
 Unlike generic chatbots, this system is designed for **regulated environments**, ensuring traceability, least-privilege access, and controlled escalation for unknown queries.
 
+## Demo Screenshots
+
+### Executive Summary View
+![Executive Summary](screenshots/executive_summary.png)
+
+### Role-Based Access Control
+![Role-Based Access](screenshots/role_based_access.png)
 ---
 
 ## Key Capabilities
