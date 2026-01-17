@@ -1,0 +1,12 @@
+Risk Management Policy
+
+The organization adopts a proactive approach to risk management.
+
+Key Principles:
+- Risks must be identified early in the project lifecycle.
+- Both threats and opportunities should be assessed.
+- High-impact risks must have mitigation or contingency plans.
+- Risk reviews should occur at least monthly.
+
+Risk Ownership:
+Each risk must have a clearly assigned owner responsible for monitoring and response actions.
